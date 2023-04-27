@@ -6,6 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fumolat&theme=dark&layout=compact" />
   
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Fumolat)](https://github.com/Fumolat/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Fumolat&theme=onedark)](https://github.com/Fumolat/github-profile-trophy)
 </p>
 
