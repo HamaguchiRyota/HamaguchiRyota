@@ -12,8 +12,8 @@
   -->
 
   <p align="left"> 
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=Fumolat&show_icons=true&theme=radical&layout=compact&show_icons=true&theme=dark"/>
-  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fumolat" />
+  <img alt="Git_Stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=Fumolat&show_icons=true&theme=radical&layout=compact&show_icons=true"/>
+  <img alt="Top_Lang" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fumolat&theme=dark" />
   </p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Fumolat&theme=discord&row=1&column=6)](https://github.com/Fumolat/github-profile-trophy)
