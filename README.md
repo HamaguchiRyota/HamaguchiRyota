@@ -1,7 +1,7 @@
 ### やあ、みんな！✌
 ### About
 
-
+<a href="https://zenn.dev/Fumolat"><img src="https://badgen.org/img/zenn/Fumolat/likes?style=social" alt="Likes" /></a>
 [![Followers](https://badgen.org/img/zenn/Fumolat/followers?style=social&label=7)](https://zenn.dev/Fumolat)
 
 <!--
