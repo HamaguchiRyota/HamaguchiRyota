@@ -10,7 +10,7 @@
   -->
 
   <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fumolat&show_icons=true&theme=radical"/>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fumolat&show_icons=true&theme=radical&layout=compact&show_icons=true"/>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fumolat" />
   </p>
   
