@@ -1,5 +1,8 @@
-### Hi there 👋
 ### やあ、みんな！✌
+### About
+
+
+[![Followers](https://badgen.org/img/zenn/Fumolat/followers?style=social&label=7)](https://zenn.dev/Fumolat)
 
 <!--
 **JamnCN/JamnCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
