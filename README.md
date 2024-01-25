@@ -1,5 +1,4 @@
 ## ✌ About Fumolat
-やあ！
 
 <p align="center">
   <!--
