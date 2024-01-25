@@ -1,4 +1,4 @@
-## ✌ About Fumolat⑲
+## ✌ About Fumolat
 やあ！
 
 <p align="center">
