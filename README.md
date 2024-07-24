@@ -1,4 +1,4 @@
-## ✌ About Fumolat
+## ✌ About Ryota
 やあ！
 
 <p align="center">
@@ -12,10 +12,10 @@
   -->
 
   <p align="left"> 
-  <img alt="Git_Stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=HamaguchiRyota&show_icons=true&theme=tokyonight&layout=compact&show_icons=true"/>
-  <img alt="Top_Lang" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaguchiRyota&theme=tokyonight" />
+    <img alt="Git_Stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=HamaguchiRyota&show_icons=true&theme=tokyonight&layout=compact&show_icons=true"/>
+    <img alt="Top_Lang" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaguchiRyota&theme=tokyonight" />
   </p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=HamaguchiRyota&theme=discord&row=1&column=7)](https://github.com/Fumolat/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=HamaguchiRyota&theme=discord&row=1&column=7)](https://github.com/HamaguchiRyota/github-profile-trophy)
 </p>
 
