@@ -1,21 +1,36 @@
-## ✌ About Ryota
-やあ！
+# ✌ Welcome
 
-<p align="center">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=Fumolat&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fumolat&theme=dark&layout=compact" />
-  -->
-  <!--
-  ![Fumolat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fumolat&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fumolat)](https://github.com/Fumolat/github-readme-stats)
-  -->
+## About Ryota
 
-  <p align="left"> 
-    <img alt="Git_Stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=HamaguchiRyota&show_icons=true&theme=tokyonight&layout=compact&show_icons=true"/>
-    <img alt="Top_Lang" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaguchiRyota&theme=tokyonight" />
-  </p>
+<p align="left">
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=HamaguchiRyota&color=gray" />
+  </a>
+  <a href="https://github.com/HamaguchiRyota">
+    <img height="20" src="https://img.shields.io/github/followers/HamaguchiRyota?label=follow&logo=github&style=flat" />
+  </a>
+  <!-- Qiitaやってねぇ
+  <a href="http://qiita.com/HamaguchiRyota">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/HamaguchiRyota/posts.svg" />
+  </a>
+  <a href="http://qiita.com/HamaguchiRyota">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/HamaguchiRyota/contributions.svg" />
+  </a>
+  -->
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=HamaguchiRyota&theme=discord&row=1&column=7)](https://github.com/HamaguchiRyota/github-profile-trophy)
+  <!-- zennもやってねぇ
+  <a href="https://zenn.dev/HamaguchiRyota">
+    <img height="20" src="https://badgen.org/img/zenn/HamaguchiRyota/articles?style=plastic" />
+  </a>
+  -->
 </p>
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamaguchiRyota&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamaguchiRyota&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HamaguchiRyota&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamaguchiRyota&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HamaguchiRyota&theme=radical&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=HamaguchiRyota&theme=radical&row=1)
